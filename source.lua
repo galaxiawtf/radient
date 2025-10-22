@@ -36,9 +36,7 @@ a = {
 			['Diglog Top Bar'] = Color3.fromRGB(22, 22, 22),
 			['Diglog Background'] = Color3.fromRGB(17, 17, 17)
 		},
-
-Theme = {
-    ['Lapis'] = {
+     ['Lapis'] = {
         ['Background']                      = Color3.fromRGB(18, 28, 58),
         ['Background Transparency']         = 0.1,
 
@@ -73,7 +71,7 @@ Theme = {
 
         ['Diglog Top Bar']                  = Color3.fromRGB(24, 34, 64),
         ['Diglog Background']               = Color3.fromRGB(19, 29, 59)
-    },
+       },
 		['Dark'] = {
 			['Background'] = Color3.fromRGB(16, 16, 16),
 			['Background Transparency'] = 0.1,
